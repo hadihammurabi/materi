@@ -67,9 +67,21 @@ console.log(60!=='60')//true, karena berbeda tipe (String dan Number)
 
 Operator logika ini digunakan untuk melakukan operasi terhadap dua nilai / variabel boolean (true dan false)
 
-<!-- 
+
 | Nama   | Simbol | Penjelasan |
 |--------|--------|------------|
-| AND    | 
-| OR     |
-| Negasi | -->
+| AND    | &&     | true jika kedua hasil boolean dari nilai adalah true
+| OR     |&#124;&#124;| true jika salah satu dari kedua hasil boolean dari nilai adalah true |
+| Negasi | !      | Membalikkan booelan |
+
+contoh
+
+```javascript
+console.log(true&&false)//output : false
+console.log(true&&true)//output : true
+
+console.log(true||false)//output : true
+console.log(true||true)//output : true
+
+console.log(!true)//output : false
+```
