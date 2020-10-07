@@ -12,15 +12,15 @@ Materi bahasa pemrograman Javascript (client-side).
 4. [Variabel](./04-variabel.md)
 5. [Tipe Data](./05-tipe-data.md)
 6. [Konversi Tipe Data](./06-konversi-tipe-data.md)
-7. Operator
+7. [Operator](./07-operator.md)
 
-   a. Aritmatika
+   a. [Aritmatika](./07-operator.md#Operator-Aritmatika)
 
-   b. Komparasi
+   b. [Komparasi](./07-operator.md#Operator-komparasi)
 
-   c. Logika
+   c. [Logika](./07-operator.md#Operator-logika)
 
-   d. Assignment
+   d. [Assignment](./07-operator.md#Operator-assignment)
 
 8. Percabangan (Decision)
 
